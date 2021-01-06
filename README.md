@@ -6,5 +6,7 @@ Day 1 - [Band Name Generator](https://repl.it/@spanglenuts/band-name-generator)
 
 Day 2 - [Tip Calculator](https://repl.it/@spanglenuts/tip-calculator)
 
-Day 3 - [Create Your Own Adventure Game](https://repl.it/@spanglenuts/treasure-island-start#main.py)
+Day 3 - [Create Your Own Adventure Game](https://repl.it/@spanglenuts/treasure-island)
+
+Day 4 - [Rock Paper Scissors Game](https://repl.it/@spanglenuts/rock-paper-scissors)
 
