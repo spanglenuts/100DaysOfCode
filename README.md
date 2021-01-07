@@ -11,3 +11,5 @@ Day 3 - [Create Your Own Adventure Game](https://repl.it/@spanglenuts/treasure-i
 Day 4 - [Rock Paper Scissors Game](https://repl.it/@spanglenuts/rock-paper-scissors)
 
 Day 5 - [Password Generator](https://repl.it/@spanglenuts/password-generator)
+
+Day 5 - [Reeborg's World Maze Solver](https://repl.it/@spanglenuts/password-generator)
