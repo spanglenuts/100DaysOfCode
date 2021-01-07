@@ -12,4 +12,4 @@ Day 4 - [Rock Paper Scissors Game](https://repl.it/@spanglenuts/rock-paper-sciss
 
 Day 5 - [Password Generator](https://repl.it/@spanglenuts/password-generator)
 
-Day 5 - [Reeborg's World Maze Solver](https://repl.it/@spanglenuts/password-generator)
+Day 5 - [Reeborg's World Maze Solver](https://github.com/spanglenuts/100DaysOfCode/blob/main/Day1_BandNameGenerator.py)
