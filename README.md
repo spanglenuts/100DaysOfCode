@@ -15,3 +15,5 @@ Day 5 - [Password Generator](https://repl.it/@spanglenuts/password-generator)
 Day 6 - [Reeborg's World Maze Solver](https://github.com/spanglenuts/100DaysOfCode/blob/main/Day6_ReeborgsWorldMazeSolver.py)
 
 Day 7 - [Hangman](https://repl.it/@spanglenuts/Day-7-Hangman)
+
+Day 8 - [Caesar Cipher](https://repl.it/@spanglenuts/caesar-cipher)
