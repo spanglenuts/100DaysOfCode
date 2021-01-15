@@ -17,3 +17,7 @@ Day 6 - [Reeborg's World Maze Solver](https://github.com/spanglenuts/100DaysOfCo
 Day 7 - [Hangman](https://repl.it/@spanglenuts/Day-7-Hangman)
 
 Day 8 - [Caesar Cipher](https://repl.it/@spanglenuts/caesar-cipher)
+
+Day 9 - [Secret Auction](https://repl.it/@spanglenuts/blind-auction)
+
+Day 10 - [Calculator](https://repl.it/@spanglenuts/calculator)
