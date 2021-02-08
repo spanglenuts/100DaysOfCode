@@ -21,3 +21,5 @@ Day 8 - [Caesar Cipher](https://repl.it/@spanglenuts/caesar-cipher)
 Day 9 - [Secret Auction](https://repl.it/@spanglenuts/blind-auction)
 
 Day 10 - [Calculator](https://repl.it/@spanglenuts/calculator)
+
+Day 11 - [Blackjack](https://repl.it/@spanglenuts/blackjack)
