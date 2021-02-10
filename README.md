@@ -25,3 +25,5 @@ Day 10 - [Calculator](https://repl.it/@spanglenuts/calculator)
 Day 11 - [Blackjack](https://repl.it/@spanglenuts/blackjack)
 
 Day 12 - [Number Guessing Game](https://repl.it/@spanglenuts/guess-the-number)
+
+Day 13 - [Higher Lower Game](https://repl.it/@spanglenuts/higher-lower)
