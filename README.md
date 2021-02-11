@@ -28,4 +28,4 @@ Day 12 - [Number Guessing Game](https://repl.it/@spanglenuts/guess-the-number)
 
 Day 13 - [Higher Lower Game](https://repl.it/@spanglenuts/higher-lower)
 
-Day 14 - [Coffee Vending Machine]
+Day 14 - [Coffee Vending Machine](https://github.com/spanglenuts/100DaysOfCode/blob/main/Day14_CoffeeMachine.py)
