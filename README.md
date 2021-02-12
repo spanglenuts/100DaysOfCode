@@ -26,6 +26,10 @@ Day 11 - [Blackjack](https://repl.it/@spanglenuts/blackjack)
 
 Day 12 - [Number Guessing Game](https://repl.it/@spanglenuts/guess-the-number)
 
-Day 13 - [Higher Lower Game](https://repl.it/@spanglenuts/higher-lower)
+Day 13 - Debugging Exercises
 
-Day 14 - [Coffee Vending Machine](https://github.com/spanglenuts/100DaysOfCode/blob/main/Day14_CoffeeMachine.py)
+Day 14 - [Higher Lower Game](https://repl.it/@spanglenuts/higher-lower)
+
+Day 15 - [Coffee Vending Machine](https://github.com/spanglenuts/100DaysOfCode/blob/main/Day14_CoffeeMachine.py)
+
+Day 16 - [OOP Coffee Vending Machine](https://repl.it/@spanglenuts/oop-coffee-machine)
