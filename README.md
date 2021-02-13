@@ -35,3 +35,5 @@ Day 15 - [Coffee Vending Machine](https://github.com/spanglenuts/100DaysOfCode/b
 Day 16 - [OOP Coffee Vending Machine](https://repl.it/@spanglenuts/oop-coffee-machine)
 
 Day 17 - [Quiz Project](https://repl.it/@spanglenuts/quiz-game-start)
+
+Day 18 - [Hirst Painting with Turtle](https://repl.it/@spanglenuts/day-18-painting)
