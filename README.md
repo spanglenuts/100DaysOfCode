@@ -39,3 +39,5 @@ Day 17 - [Quiz Project](https://repl.it/@spanglenuts/quiz-game-start)
 Day 18 - [Hirst Painting with Turtle](https://repl.it/@spanglenuts/day-18-painting)
 
 Day 19 - [Turtle Race](https://repl.it/@spanglenuts/day-19-turtle)
+
+Day 20 - [Snake Game 1/3](https://repl.it/@spanglenuts/Day-20-Snake-Game)
