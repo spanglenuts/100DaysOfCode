@@ -37,3 +37,5 @@ Day 16 - [OOP Coffee Vending Machine](https://repl.it/@spanglenuts/oop-coffee-ma
 Day 17 - [Quiz Project](https://repl.it/@spanglenuts/quiz-game-start)
 
 Day 18 - [Hirst Painting with Turtle](https://repl.it/@spanglenuts/day-18-painting)
+
+Day 19 - [Turtle Race](https://repl.it/@spanglenuts/day-19-turtle)
