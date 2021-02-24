@@ -45,3 +45,5 @@ Day 20,21 - [Snake Game](https://repl.it/@spanglenuts/Day-20-Snake-Game)
 Day 22 - [Pong](https://repl.it/@spanglenuts/day-22-pong)
 
 Day 23 - [Turtle Crossing Game](https://repl.it/@spanglenuts/Day-23-Turtle-Crossing-Game)
+
+Day 24 - [Read/Write practice](https://repl.it/@spanglenuts/day-24-write-letters)
